@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">HttpUrl_JSONDemo</string>
+    <string name="id">Repo ID</string>
+    <string name="node_id">Node ID</string>
+    <string name="repo_name">Name</string>
+    <string name="isPrivate">Private</string>
+    <string name="owner_id">Owner ID</string>
+    <string name="html_url">HTML URL</string>
+    <string name="description">Description</string>
+    <string name="isConnected">Is Connected?</string>
+    <string name="connected">You are connected</string>
+    <string name="notConnected">You are NOT connected</string>
 </resources>
